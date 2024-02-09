@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Queenwyne a curious individual passionate about exploring technology and programming. I'm very much eager to learn more about coding to create innovative solutions and contribute to exciting projects.
-- 👀 I’m interested in Web Development, Data Science and mobile app development.
-- 🌱 I’m currently learning programming languages such as Python. Additionally, I'm exploring various frameworks and tools to expand my knowledge and expertise in software development.
-- 💞️ I’m looking to collaborate on new exciting projects like building something new as a team.
+- 👀 I’m interested in Web Development and programming.
+- 🌱 I’m currently learning programming languages such as Python.
+- 💞️ I’m looking to collaborate on new exciting projects like building something new together for starter to get some experience and understanding.
 - 📫 You can reach out to me via: Email:queenwyne.ngwenya@kibo.school
                                   LinkedIn: https://www.linkedin.com/in/queenwyne-ngwenya-28a8852aa/
 
